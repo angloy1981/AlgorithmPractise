@@ -1,0 +1,6 @@
+F:\数据之美\DataStrutAndAlgorithmPractise\DataStrutAndAlgorithmPractise\bin\Debug\DataStrutAndAlgorithmPractise.exe.config
+F:\数据之美\DataStrutAndAlgorithmPractise\DataStrutAndAlgorithmPractise\bin\Debug\DataStrutAndAlgorithmPractise.exe
+F:\数据之美\DataStrutAndAlgorithmPractise\DataStrutAndAlgorithmPractise\bin\Debug\DataStrutAndAlgorithmPractise.pdb
+F:\数据之美\DataStrutAndAlgorithmPractise\DataStrutAndAlgorithmPractise\obj\Debug\DataStrutAndAlgorithmPractise.csprojResolveAssemblyReference.cache
+F:\数据之美\DataStrutAndAlgorithmPractise\DataStrutAndAlgorithmPractise\obj\Debug\DataStrutAndAlgorithmPractise.exe
+F:\数据之美\DataStrutAndAlgorithmPractise\DataStrutAndAlgorithmPractise\obj\Debug\DataStrutAndAlgorithmPractise.pdb
